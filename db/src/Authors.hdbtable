@@ -1,0 +1,5 @@
+COLUMN TABLE BOOKSHELF_AUTHORS (
+  ID integer,
+  NAME nvarchar(100),
+  PRIMARY KEY (ID)
+)

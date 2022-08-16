@@ -1,0 +1,5 @@
+COLUMN TABLE "BOOKSHELF::BOOKS" (
+  "id" integer,
+  "the.title" nvarchar(100),
+  PRIMARY KEY ("id")
+)
